@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primamy: "#fea928",
+        primary: "#fea928",
         secondary: "#ed8900",
       },
       container: {
